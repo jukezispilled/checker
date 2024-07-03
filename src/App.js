@@ -37,7 +37,7 @@ function App() {
         <div>
           <div className="absolute bottom-10 left-10 flex flex-row z-30 hidden md:flex">
             <a
-              href="https://x.com/"
+              href="https://x.com/checkersol"
               className="p-2 hover:scale-110 transition ease-in-out duration-200"
             >
               <img src={Xlogo} alt="Xlogo" className="w-10 h-10 rounded-md" />
@@ -53,7 +53,7 @@ function App() {
           <div className="absolute bottom-5 left-5 flex flex-col items-center md:hidden">
             <div className="flex flex-row">
               <a
-                href="https://x.com/"
+                href="https://x.com/checkersol"
                 className="p-2 hover:scale-110 transition ease-in-out duration-200"
               >
                 <img src={Xlogo} alt="Xlogo" className="w-10 h-10 rounded-md" />
